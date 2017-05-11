@@ -1,0 +1,7 @@
+.search {
+    width: 220px;
+    height: 30px;
+    border: 1px solid #66afe9;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgb(102, 175, 223);
+}

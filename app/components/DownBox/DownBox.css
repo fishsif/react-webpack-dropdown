@@ -1,0 +1,13 @@
+.drop-box {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+}
+
+.item {
+    line-height: 26px;
+}
+
+.item:hover {
+    background-color: #337ab7;
+}
